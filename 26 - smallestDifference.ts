@@ -1,7 +1,3 @@
-
-const arr1 = [10, 1000, 9124];
-const arr2 = [26, 134, 9124, 15, 17];
-
 const getDiff = (a: number, b: number) => {
   // a > 0 && b > 0
   // a < 0 && b < 0
